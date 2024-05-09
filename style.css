@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#bgContainer{
+    padding: 15px;
+    background-color: antiquewhite;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+button{
+    color: white;
+    background-color: rgb(30, 128, 248);
+    padding:10px;
+    margin: 3px;
+    border-width: 0px;
+    border-radius: 12px;
+}
+
+.imgContainer{
+    margin: 5px;
+}
+
+img{
+    width: 100%;
+    min-height: 400px;
+    border-radius: 15px;
+}
+
+.secContainer{
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
